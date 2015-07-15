@@ -1,0 +1,6 @@
+C:\Dev\local\NewRelicAgentTest\MediumTrustWebApp\bin\MediumTrustWebApp.dll.config
+C:\Dev\local\NewRelicAgentTest\MediumTrustWebApp\bin\MediumTrustWebApp.dll
+C:\Dev\local\NewRelicAgentTest\MediumTrustWebApp\bin\MediumTrustWebApp.pdb
+C:\Dev\local\NewRelicAgentTest\MediumTrustWebApp\obj\Debug\MediumTrustWebApp.dll
+C:\Dev\local\NewRelicAgentTest\MediumTrustWebApp\obj\Debug\MediumTrustWebApp.pdb
+C:\Dev\local\NewRelicAgentTest\MediumTrustWebApp\obj\Debug\MediumTrustWebApp.csprojResolveAssemblyReference.cache

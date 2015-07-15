@@ -1,0 +1,5 @@
+C:\Dev\local\NewRelicAgentTest\FullTrustWebApp\bin\FullTrustWebApp.dll.config
+C:\Dev\local\NewRelicAgentTest\FullTrustWebApp\bin\FullTrustWebApp.dll
+C:\Dev\local\NewRelicAgentTest\FullTrustWebApp\bin\FullTrustWebApp.pdb
+C:\Dev\local\NewRelicAgentTest\FullTrustWebApp\obj\Debug\FullTrustWebApp.dll
+C:\Dev\local\NewRelicAgentTest\FullTrustWebApp\obj\Debug\FullTrustWebApp.pdb
